@@ -1,0 +1,9 @@
+Exp 3 Git CheatSheet 
+
+1. git init
+`git init` is a command used to initialize a new Git repository in the current directory. It creates a hidden .git folder where Git stores metadata and config files for version control.
+
+2. git clone [url]
+example: git clone https://github.com/121abhi/test_demo.git
+`git clone` is a command that creates a copy of a remote Git repository on our local machine. It downloads all the files and history from the remote repository, allowing you to work on the code locally and interact with the remote repository.
+
